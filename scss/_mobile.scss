@@ -77,4 +77,16 @@
     .project{
         grid-template-columns: 1fr;
     }
+
+    .boxes{
+        div{
+            font-size: 1rem;
+        }
+    }
+h1,h2,h3{
+   &.lg-heading{
+    
+   font-size: 4.5rem;
+}
+}
 }
